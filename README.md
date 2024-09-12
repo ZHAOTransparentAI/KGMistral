@@ -1,5 +1,15 @@
 # KGMistral: Towards Boosting the Performance of Large Language Models for Question Answering with Knowledge Graph Integration
 
+**Cite:**
+@inproceedings{
+li2024kgmistral,
+title={{KGM}istral: Towards Boosting the Performance of Large Language Models for Question Answering with Knowledge Graph Integration},
+author={Mingze Li and Haoran Yang and Zhaotai Liu and Mirza Mohtashim Alam and Ebrahim and Harald Sack and Genet Asefa Gesese},
+booktitle={Workshop on Deep Learning and Large Language Models for Knowledge Graphs},
+year={2024},
+url={https://openreview.net/forum?id=JzL0qm3YA8}
+}
+
 
 # How to start?
 Process sequence is:
