@@ -7,6 +7,8 @@
   author={Li, Mingze and Yang, Haoran and Liu, Zhaotai and Alam, Mirza Mohtashim and Sack, Harald and Gesese, Genet Asefa and others},
   booktitle={Workshop on Deep Learning and Large Language Models for Knowledge Graphs}
 }
+```bibtex
+
 
 
 # How to start?
